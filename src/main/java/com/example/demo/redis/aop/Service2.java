@@ -7,6 +7,6 @@ import org.springframework.stereotype.Service;
 public class Service2 {
     @LogExecutionTime
     public String getUserData(int id) {
-        return "Данные пользователя с id " + id;
+        return "Данные пользователя с id  " + id;
     }
 }
