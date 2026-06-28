@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.demo.redis.service","c":"TestService","l":"addAlgorithm()"}];updateSearchResults();
