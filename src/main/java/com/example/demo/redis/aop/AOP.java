@@ -4,7 +4,6 @@ import com.example.demo.redis.aop.annotations.LogExecutionTime;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Before;
 import org.springframework.stereotype.Component;
 
 //aop - это аспектно-ориентированное программирование, когда до вызова метода обработать некую логику
